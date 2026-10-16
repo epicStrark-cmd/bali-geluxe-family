@@ -9,39 +9,21 @@
   "meet_location": "Hotel lobby",
   "maps_url": null,
   "activities": [
-    {
-      "time": "08:00",
-      "description": "Depart from hotel lobby"
-    },
-    {
-      "time": "09:00",
-      "description": "Walk through village and rice fields, ending at waterfall"
-    },
-    {
-      "time": "11:00",
-      "description": "Traditional offering-making; wear a sarong for this activity"
-    },
-    {
-      "time": "12:00",
-      "description": "Traditional Balinese buffet lunch"
-    },
-    {
-      "time": "Afternoon",
-      "description": "Return to hotel; free time"
-    }
+    "8:00 AM · Depart from hotel lobby",
+    "9:00 AM · Walk through village and rice fields, ending at waterfall",
+    "11:00 AM · Offering-making activity; sarong worn for the activity",
+    "12:00 PM · Traditional Balinese buffet lunch",
+    "After lunch · Return to hotel; free afternoon"
   ],
   "bring": [
+    "Clothing: shorts and open-shoulder shirts are fine",
+    "Footwear: shoes or strapped sandals with good grip",
     "Water or refillable water bottle",
     "Sunscreen (sun lotion)",
     "Sunglasses",
     "Mosquito repellent"
   ],
   "changes": [],
-  "wear": [
-    "Shorts are fine",
-    "Open-shoulder shirt is fine",
-    "Shoes or strapped sandals with good grip"
-  ],
   "source": "CEO Panji Sidharta's WhatsApp announcement for 17 October 2026",
   "note": "This briefing reflects the CEO's posted schedule; follow direct instructions for any later changes."
 }
