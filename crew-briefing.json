@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "status": "awaiting_update",
+  "for_date": null,
+  "updated_at": null,
+  "heading": null,
+  "day_label": null,
+  "meet_time": null,
+  "meet_location": null,
+  "maps_url": null,
+  "activities": [],
+  "bring": [],
+  "changes": [],
+  "source": "Awaiting screenshot of CEO announcement shared by a group traveler",
+  "note": "Never infer or manufacture times, instructions or locations. Only include group-safe details from announcements."
+}
