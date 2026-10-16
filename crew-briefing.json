@@ -1,16 +1,47 @@
 {
   "schema_version": 1,
-  "status": "awaiting_update",
-  "for_date": null,
-  "updated_at": null,
-  "heading": null,
-  "day_label": null,
-  "meet_time": null,
-  "meet_location": null,
+  "status": "confirmed",
+  "for_date": "2026-10-17",
+  "updated_at": "2026-10-17T07:46:00+08:00",
+  "heading": "Kenderan Village Activity",
+  "day_label": "Saturday · October 17 · Day 2",
+  "meet_time": "08:00",
+  "meet_location": "Hotel lobby",
   "maps_url": null,
-  "activities": [],
-  "bring": [],
+  "activities": [
+    {
+      "time": "08:00",
+      "description": "Depart from hotel lobby"
+    },
+    {
+      "time": "09:00",
+      "description": "Walk through village and rice fields, ending at waterfall"
+    },
+    {
+      "time": "11:00",
+      "description": "Traditional offering-making; wear a sarong for this activity"
+    },
+    {
+      "time": "12:00",
+      "description": "Traditional Balinese buffet lunch"
+    },
+    {
+      "time": "Afternoon",
+      "description": "Return to hotel; free time"
+    }
+  ],
+  "bring": [
+    "Water or refillable water bottle",
+    "Sunscreen (sun lotion)",
+    "Sunglasses",
+    "Mosquito repellent"
+  ],
   "changes": [],
-  "source": "Awaiting screenshot of CEO announcement shared by a group traveler",
-  "note": "Never infer or manufacture times, instructions or locations. Only include group-safe details from announcements."
+  "wear": [
+    "Shorts are fine",
+    "Open-shoulder shirt is fine",
+    "Shoes or strapped sandals with good grip"
+  ],
+  "source": "CEO Panji Sidharta's WhatsApp announcement for 17 October 2026",
+  "note": "This briefing reflects the CEO's posted schedule; follow direct instructions for any later changes."
 }
