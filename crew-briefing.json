@@ -1,35 +1,29 @@
 {
   "schema_version": 1,
   "status": "confirmed",
-  "for_date": "2026-10-17",
-  "updated_at": "2026-10-17T14:49:00+08:00",
-  "heading": "Kenderan Village Activity",
-  "day_label": "Saturday · October 17 · Day 2",
+  "for_date": "2026-10-18",
+  "updated_at": "2026-10-18T06:49:00+08:00",
+  "heading": "October 18 · Rafting, Cooking Class & Fireflies",
+  "day_label": "Sunday · October 18 · Day 3",
   "meet_time": "08:00",
-  "meet_location": "Hotel lobby",
+  "meet_location": "Pickup location not specified in CEO message; check WhatsApp",
   "maps_url": null,
   "activities": [
-    "8:00 AM · Depart from hotel lobby",
-    "9:00 AM · Walk through village and rice fields, ending at waterfall",
-    "11:00 AM · Offering-making activity; sarong worn for the activity",
-    "12:00 PM · Traditional Balinese buffet lunch",
-    "After lunch · Return to hotel; free afternoon",
-    "TONIGHT · Two OPTIONAL evening choices (not included in the day tour).",
-    "Option 1 · 7:00 PM Sang Hyang Jaran performance with dinner · Rp350,000 per person (approximately $19.39 USD) · Book via hotel lobby.",
-    "Option 2 · 6:45 PM meet Panji at the hotel lobby; walk together to Panorama Restaurant for dinner, drinks and live music (dine-out cost not specified)."
+    "8:00 AM · Rafting pickup: Fabian, Jovan, Dave and Panji.",
+    "8:00 AM · Cooking class pickup: Tara, Suzanne, Angelle, Leah, Melissa, Bamby, Kelly and Vince.",
+    "Rafting: towels, showers and lunch available at the end.",
+    "Around 2:00–2:30 PM · Expected return; rest and change clothes.",
+    "4:30 PM · Pickup for Fireflies Conservation Project & Dinner."
   ],
   "bring": [
-    "Clothing: shorts and open-shoulder shirts are fine",
-    "Footwear: shoes or strapped sandals with good grip",
-    "Water or refillable water bottle",
-    "Sunscreen (sun lotion)",
-    "Sunglasses",
-    "Mosquito repellent"
+    "RAFTING: Change of clothes, cash for extra drinks, wet shoes or sandals, sunscreen and phone.",
+    "COOKING CLASS: Camera or phone; extra cash for drinks.",
+    "FIREFLIES DINNER: Comfortable footwear; light jacket or vest (can be chilly); extra cash for souvenirs; mosquito repellent."
   ],
   "changes": [
-    "TONIGHT: Choose either the optional Sang Hyang Jaran dinner/performance at 7:00 PM (book via lobby) OR join Panji at 6:45 PM in the hotel lobby to walk to Panorama Restaurant.",
-    "These are optional choices; no group-wide dinner is required."
+    "Morning activities have two separate confirmed participant groups, both with 8:00 AM pickup.",
+    "Expected return around 2:00–2:30 PM before the 4:30 PM fireflies pickup."
   ],
-  "source": "CEO Panji Sidharta's WhatsApp announcements for 17 October 2026 (daytime and TONIGHT)",
-  "note": "This briefing reflects the CEO's posted schedule; follow direct instructions for any later changes."
+  "source": "Panji Sidharta's October 18 WhatsApp group announcements",
+  "note": "Times are Bali local time (WITA). Follow Panji's latest WhatsApp instructions for any changes."
 }
