@@ -2,11 +2,11 @@
   "schema_version": 1,
   "status": "confirmed",
   "for_date": "2026-10-18",
-  "updated_at": "2026-10-18T06:49:00+08:00",
+  "updated_at": "2026-10-18T07:00:00+08:00",
   "heading": "October 18 · Rafting, Cooking Class & Fireflies",
   "day_label": "Sunday · October 18 · Day 3",
   "meet_time": "08:00",
-  "meet_location": "Pickup location not specified in CEO message; check WhatsApp",
+  "meet_location": "Hotel lobby",
   "maps_url": null,
   "activities": [
     "8:00 AM · Rafting pickup: Fabian, Jovan, Dave and Panji.",
@@ -25,5 +25,5 @@
     "Expected return around 2:00–2:30 PM before the 4:30 PM fireflies pickup."
   ],
   "source": "Panji Sidharta's October 18 WhatsApp group announcements",
-  "note": "Times are Bali local time (WITA). Follow Panji's latest WhatsApp instructions for any changes."
+  "note": "All scheduled pickups meet in the hotel lobby. Times are Bali local time (WITA). Follow Panji's latest WhatsApp instructions for any changes."
 }
