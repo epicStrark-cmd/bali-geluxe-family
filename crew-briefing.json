@@ -2,7 +2,7 @@
   "schema_version": 1,
   "status": "confirmed",
   "for_date": "2026-10-17",
-  "updated_at": "2026-10-17T07:46:00+08:00",
+  "updated_at": "2026-10-17T14:49:00+08:00",
   "heading": "Kenderan Village Activity",
   "day_label": "Saturday · October 17 · Day 2",
   "meet_time": "08:00",
@@ -13,7 +13,10 @@
     "9:00 AM · Walk through village and rice fields, ending at waterfall",
     "11:00 AM · Offering-making activity; sarong worn for the activity",
     "12:00 PM · Traditional Balinese buffet lunch",
-    "After lunch · Return to hotel; free afternoon"
+    "After lunch · Return to hotel; free afternoon",
+    "TONIGHT · Two OPTIONAL evening choices (not included in the day tour).",
+    "Option 1 · 7:00 PM Sang Hyang Jaran performance with dinner · Rp350,000 per person (approximately $19.39 USD) · Book via hotel lobby.",
+    "Option 2 · 6:45 PM meet Panji at the hotel lobby; walk together to Panorama Restaurant for dinner, drinks and live music (dine-out cost not specified)."
   ],
   "bring": [
     "Clothing: shorts and open-shoulder shirts are fine",
@@ -23,7 +26,10 @@
     "Sunglasses",
     "Mosquito repellent"
   ],
-  "changes": [],
-  "source": "CEO Panji Sidharta's WhatsApp announcement for 17 October 2026",
+  "changes": [
+    "TONIGHT: Choose either the optional Sang Hyang Jaran dinner/performance at 7:00 PM (book via lobby) OR join Panji at 6:45 PM in the hotel lobby to walk to Panorama Restaurant.",
+    "These are optional choices; no group-wide dinner is required."
+  ],
+  "source": "CEO Panji Sidharta's WhatsApp announcements for 17 October 2026 (daytime and TONIGHT)",
   "note": "This briefing reflects the CEO's posted schedule; follow direct instructions for any later changes."
 }
