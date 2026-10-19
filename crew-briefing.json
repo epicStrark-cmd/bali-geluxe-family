@@ -1,29 +1,32 @@
 {
   "schema_version": 1,
   "status": "confirmed",
-  "for_date": "2026-10-18",
-  "updated_at": "2026-10-18T07:00:00+08:00",
-  "heading": "October 18 · Rafting, Cooking Class & Fireflies",
-  "day_label": "Sunday · October 18 · Day 3",
-  "meet_time": "08:00",
-  "meet_location": "Hotel lobby",
+  "for_date": "2026-10-19",
+  "updated_at": "2026-10-19T08:05:00+08:00",
+  "heading": "October 19 · Ubud Checkout, Monkey Forest & Rice Terraces",
+  "day_label": "Monday · October 19 · Day 4",
+  "meet_time": "08:15",
+  "meet_location": "Hotel (luggage collection)",
   "maps_url": null,
   "activities": [
-    "8:00 AM · Rafting pickup: Fabian, Jovan, Dave and Panji.",
-    "8:00 AM · Cooking class pickup: Tara, Suzanne, Angelle, Leah, Melissa, Bamby, Kelly and Vince.",
-    "Rafting: towels, showers and lunch available at the end.",
-    "Around 2:00–2:30 PM · Expected return; rest and change clothes.",
-    "4:30 PM · Pickup for Fireflies Conservation Project & Dinner."
+    "8:15 AM · Luggage collection at the hotel.",
+    "8:30 AM · Hotel checkout.",
+    "8:45 AM · Depart the hotel.",
+    "Visit Sangeh Monkey Forest.",
+    "Visit Jatiluwih UNESCO World Heritage rice terraces; easy 45-minute walk, no special gear or shoes needed.",
+    "Visit Ulun Danu Lake Temple beside Lake Beratan; no sarong needed."
   ],
   "bring": [
-    "RAFTING: Change of clothes, cash for extra drinks, wet shoes or sandals, sunscreen and phone.",
-    "COOKING CLASS: Camera or phone; extra cash for drinks.",
-    "FIREFLIES DINNER: Comfortable footwear; light jacket or vest (can be chilly); extra cash for souvenirs; mosquito repellent."
+    "Refillable water bottle (refill station available on the bus).",
+    "Sun lotion / sunscreen.",
+    "Mosquito repellent.",
+    "Sunglasses and a hat.",
+    "Shoes or sandals with a strap or good grip."
   ],
   "changes": [
-    "Morning activities have two separate confirmed participant groups, both with 8:00 AM pickup.",
-    "Expected return around 2:00–2:30 PM before the 4:30 PM fireflies pickup."
+    "Day 4 transfers from Ubud: luggage collection 8:15 AM, checkout 8:30 AM, departure 8:45 AM.",
+    "The screenshot says to settle any hotel bill 'tonight'; as the announcement was sent before October 19, confirm with the hotel if still outstanding."
   ],
-  "source": "Panji Sidharta's October 18 WhatsApp group announcements",
-  "note": "All scheduled pickups meet in the hotel lobby. Times are Bali local time (WITA). Follow Panji's latest WhatsApp instructions for any changes."
+  "source": "Bali Geluxe Family WhatsApp group announcement for 19 October 2026 (user-provided screenshot)",
+  "note": "The message lists luggage collection at 8:15 AM, checkout at 8:30 AM, and departure at 8:45 AM. Follow Panji and the hotel for last-minute changes. Times are Bali local time (WITA)."
 }
