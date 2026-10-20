@@ -1,32 +1,40 @@
 {
   "schema_version": 1,
   "status": "confirmed",
-  "for_date": "2026-10-19",
-  "updated_at": "2026-10-19T08:05:00+08:00",
-  "heading": "October 19 · Ubud Checkout, Monkey Forest & Rice Terraces",
-  "day_label": "Monday · October 19 · Day 4",
-  "meet_time": "08:15",
-  "meet_location": "Hotel (luggage collection)",
+  "for_date": "2026-10-21",
+  "updated_at": "2026-10-20T15:47:00+08:00",
+  "heading": "October 21 · Munduk Checkout & Flight to Labuan Bajo",
+  "day_label": "Wednesday · October 21 · Day 6",
+  "meet_time": "09:00",
+  "meet_location": "Leave luggage in front of your room door at the hotel",
   "maps_url": null,
   "activities": [
-    "8:15 AM · Luggage collection at the hotel.",
-    "8:30 AM · Hotel checkout.",
-    "8:45 AM · Depart the hotel.",
-    "Visit Sangeh Monkey Forest.",
-    "Visit Jatiluwih UNESCO World Heritage rice terraces; easy 45-minute walk, no special gear or shoes needed.",
-    "Visit Ulun Danu Lake Temple beside Lake Beratan; no sarong needed."
+    "9:00 AM · Luggage collection. Leave luggage in front of your room door.",
+    "9:30 AM · Hotel checkout and depart for the airport.",
+    "10:30 AM · Visit Taman Ayun Royal Temple.",
+    "11:30 AM · Depart for the airport.",
+    "1:30 PM · Arrive at the airport for check-in.",
+    "2:00 PM · Lunch at your own expense.",
+    "3:15 PM · Boarding.",
+    "3:45 PM · Scheduled flight departure to Labuan Bajo, Flores.",
+    "5:00 PM · Estimated arrival in Labuan Bajo.",
+    "5:30 PM · Hotel check-in."
   ],
   "bring": [
-    "Refillable water bottle (refill station available on the bus).",
-    "Sun lotion / sunscreen.",
-    "Mosquito repellent.",
-    "Sunglasses and a hat.",
-    "Shoes or sandals with a strap or good grip."
+    "Passport.",
+    "Cabin bag allowance: 7 kg.",
+    "Checked luggage allowance: 20 kg.",
+    "Small water bottle; Panji's message says water/liquid is permitted (follow airport screening rules).",
+    "No sharp objects in cabin bag, including scissors or nail clippers.",
+    "Keep power banks in your cabin bag; never put them in checked luggage.",
+    "Keep electronics, jewelry and other valuables out of checked luggage.",
+    "Walking stick: use it or pack it in checked luggage, per Panji's instruction."
   ],
   "changes": [
-    "Day 4 transfers from Ubud: luggage collection 8:15 AM, checkout 8:30 AM, departure 8:45 AM.",
-    "The screenshot says to settle any hotel bill 'tonight'; as the announcement was sent before October 19, confirm with the hotel if still outstanding."
+    "Oct 21 is the flight and transfer day. Leave bags outside your room at 9:00 AM; checkout/departure is 9:30 AM.",
+    "Flight times are scheduled: boarding 3:15 PM, departure 3:45 PM, estimated arrival 5:00 PM.",
+    "For tonight, Tuesday October 20, Panji invited the group to dinner at 6:45 PM (18:45)."
   ],
-  "source": "Bali Geluxe Family WhatsApp group announcement for 19 October 2026 (user-provided screenshot)",
-  "note": "The message lists luggage collection at 8:15 AM, checkout at 8:30 AM, and departure at 8:45 AM. Follow Panji and the hotel for last-minute changes. Times are Bali local time (WITA)."
+  "source": "Panji Sidharta's WhatsApp group announcements shared October 20, 2026 (two user screenshots)",
+  "note": "All times are local Bali/Flores time (UTC+8). Flight times and airport security requirements may change; follow Panji's latest group instructions. Tonight's dinner is at 6:45 PM on October 20."
 }
