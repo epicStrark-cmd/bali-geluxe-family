@@ -1,34 +1,35 @@
 {
   "schema_version": 1,
   "status": "confirmed",
-  "for_date": "2026-10-21",
-  "updated_at": "2026-10-21T17:15:00+08:00",
-  "heading": "Sudamala Resort · Current Hotel Information",
-  "day_label": "Wednesday · October 21 · Arrived in Labuan Bajo",
-  "meet_time": "Hotel information",
-  "meet_location": "Sudamala Resort, Labuan Bajo",
+  "for_date": "2026-10-22",
+  "updated_at": "2026-10-21T18:40:00+08:00",
+  "heading": "October 22 · Komodo Island Boat Trip",
+  "day_label": "Thursday · October 22 · Day 7",
+  "meet_time": "07:30",
+  "meet_location": "Depart from Sudamala Resort for the harbor (confirm lobby meeting point with Panji)",
   "maps_url": null,
   "activities": [
-    "NOW STAYING: Sudamala Resort, Labuan Bajo.",
-    "Breakfast at Waerebo Restaurant: 6:30–10:30 AM.",
-    "Restaurant and room service: 6:30 AM–10:00 PM; last orders 9:30 PM.",
-    "Manta Café: noon–6:00 PM.",
-    "Swimming pool: 7:00 AM–8:00 PM; gym: 6:00 AM–9:00 PM.",
-    "Spa: 9:00 AM–9:00 PM; Aqura Diving Center: 9:00 AM–5:00 PM.",
-    "Room telephone: dial 0 for reception, 3 for room service."
+    "6:30 AM · Buffet breakfast ready at the restaurant near the pool.",
+    "7:30 AM · Depart for the harbor.",
+    "Boat trip: Komodo Island, Pink Beach, Taka Makassar, Manta Point, and offshore island snorkeling.",
+    "Around 4:30 PM · Expected return to the hotel.",
+    "Provided on the boat: towels, water, fruit, snacks (chips), and soft drinks."
   ],
   "bring": [
-    "Wi-Fi network / User ID: Sudamala Resort; password: rincaisland.",
-    "Complimentary coffee, tea, sugar and mineral water are refreshed daily; minibar costs extra.",
-    "Laundry: sign the form located in the wardrobe.",
-    "Private hotel transfer (one way, per car): sedan Rp200,000 (≈US$12.50); minibus Rp450,000 (≈US$28.10)."
+    "Bathing suit.",
+    "Sunscreen / sun lotion.",
+    "Mosquito repellent.",
+    "Comfortable footwear for the walk or sandals.",
+    "Sunglasses.",
+    "Water shoes, if available.",
+    "Cash for extra drinks, souvenirs, and snacks.",
+    "Shorts and T-shirts are fine."
   ],
   "changes": [
-    "CURRENT PRIORITY: The group has arrived at Sudamala Resort in Labuan Bajo. The earlier Oct 21 flight itinerary is now complete.",
-    "Hotel rules: no smoking in rooms (US$150 fine); lost room key (US$50 replacement fee). Return room key at checkout.",
-    "Do not take hotel towels off premises; keep important documents and valuables in your in-room safe; no durian allowed.",
-    "The October 22 Komodo boat lunch poll remains in WhatsApp: fried rice with chicken; fried noodles with chicken; or grilled chicken breast with potatoes and vegetables. Vote in WhatsApp."
+    "Komodo boat lunch is a boxed meal; select one in Panji's WhatsApp poll: fried rice with chicken and egg; fried noodles with chicken and egg; or grilled chicken breast with potatoes and sautéed vegetables.",
+    "DATE CHECK: The newly shared WhatsApp screenshot says 'TOMORROW 21 October 2026', but the group arrived in Labuan Bajo on October 21 and the official itinerary puts this boat trip on October 22. Please verify the date with Panji; the app displays it under October 22 provisionally.",
+    "Sudamala Resort facilities, Wi-Fi, and house rules remain available in the app's Guide section."
   ],
-  "source": "Sudamala Resort guest information forwarded by the CEO in Bali Geluxe Family WhatsApp on October 21, 2026",
-  "note": "Current hotel amenities and house rules take priority over completed travel-day arrangements. Facility schedules and fees are as stated in the resort's message; confirm changes with the front desk."
+  "source": "Panji Sidharta's Komodo boat-trip WhatsApp announcement, shared October 21, 2026 (screenshot supplied by traveler), cross-referenced with the tour itinerary for date",
+  "note": "Time and itinerary from Panji's screenshot. The screenshot's date conflicts with the tour timeline, so October 22 is provisional until Panji confirms. Check the WhatsApp group for changes."
 }
