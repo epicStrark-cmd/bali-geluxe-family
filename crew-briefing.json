@@ -2,15 +2,15 @@
   "schema_version": 1,
   "status": "confirmed",
   "for_date": "2026-10-22",
-  "updated_at": "2026-10-21T18:40:00+08:00",
+  "updated_at": "2026-10-21T20:57:00+08:00",
   "heading": "October 22 · Komodo Island Boat Trip",
   "day_label": "Thursday · October 22 · Day 7",
   "meet_time": "07:30",
-  "meet_location": "Depart from Sudamala Resort for the harbor (confirm lobby meeting point with Panji)",
+  "meet_location": "Sudamala Resort hotel lobby",
   "maps_url": null,
   "activities": [
     "6:30 AM · Buffet breakfast ready at the restaurant near the pool.",
-    "7:30 AM · Depart for the harbor.",
+    "7:30 AM · Meet in the Sudamala Resort hotel lobby and depart for the harbor.",
     "Boat trip: Komodo Island, Pink Beach, Taka Makassar, Manta Point, and offshore island snorkeling.",
     "Around 4:30 PM · Expected return to the hotel.",
     "Provided on the boat: towels, water, fruit, snacks (chips), and soft drinks."
@@ -27,9 +27,8 @@
   ],
   "changes": [
     "Komodo boat lunch is a boxed meal; select one in Panji's WhatsApp poll: fried rice with chicken and egg; fried noodles with chicken and egg; or grilled chicken breast with potatoes and sautéed vegetables.",
-    "DATE CHECK: The newly shared WhatsApp screenshot says 'TOMORROW 21 October 2026', but the group arrived in Labuan Bajo on October 21 and the official itinerary puts this boat trip on October 22. Please verify the date with Panji; the app displays it under October 22 provisionally.",
     "Sudamala Resort facilities, Wi-Fi, and house rules remain available in the app's Guide section."
   ],
   "source": "Panji Sidharta's Komodo boat-trip WhatsApp announcement, shared October 21, 2026 (screenshot supplied by traveler), cross-referenced with the tour itinerary for date",
-  "note": "Time and itinerary from Panji's screenshot. The screenshot's date conflicts with the tour timeline, so October 22 is provisional until Panji confirms. Check the WhatsApp group for changes."
+  "note": "Meet in the Sudamala Resort lobby at 7:30 AM on October 22. Boat-trip plan is from Panji's WhatsApp message. Follow any newer group instructions."
 }
