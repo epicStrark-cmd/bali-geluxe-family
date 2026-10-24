@@ -1,31 +1,34 @@
 {
   "schema_version": 1,
   "status": "confirmed",
-  "for_date": "2026-10-24",
-  "updated_at": "2026-10-24T16:50:00+08:00",
-  "heading": "Tonight: Three Monkeys Sanur · Sanur Local Guide",
-  "day_label": "Saturday, October 24 · Day 9 · Sanur",
-  "meet_time": "19:00",
-  "meet_location": "éL Hotel & Resort Bali–Sanur lobby (meet for dinner)",
-  "maps_url": "https://maps.app.goo.gl/ARWJi1Rh7ngGiTyr7?g_st=ac",
+  "for_date": "2026-10-25",
+  "updated_at": "2026-10-24T19:01:00+08:00",
+  "heading": "Tomorrow · Sibetan Village Cycling & Cultural Stops",
+  "day_label": "Sunday, October 25 · Day 10 · Sanur",
+  "meet_time": "07:30",
+  "meet_location": "Depart from hotel (exact meeting point not specified by Panji)",
+  "maps_url": null,
   "activities": [
-    "TONIGHT · 7:00 PM: Meet in the hotel lobby for dinner at Three Monkeys Sanur. Let Panji know if you have other plans so he can arrange the table reservation.",
-    "Hotel: éL Hotel & Resort Bali–Sanur — https://maps.app.goo.gl/itTJbEi3B2eaeGkD6",
-    "Shopping: Icon Bali Mall (international brands, by the beach) — https://maps.app.goo.gl/5nJ5V8ngRCjLkG9GA",
-    "Shopping: Artha Sedana Department Store — https://maps.app.goo.gl/gFRgmyiPsMgiSeJu6",
-    "Essentials: Coco Mart (money changer inside) — https://maps.app.goo.gl/ikSThNJw2fdx9NWA6",
-    "Essentials: Pepito Express (ATM available) — https://maps.app.goo.gl/9SH58PWfYcPC4qPo9",
-    "Museum: Le Mayeur Museum — https://maps.app.goo.gl/HoJmzcrtJujYGuur6?g_st=iw",
-    "Yoga: Power of Now Oasis — https://maps.app.goo.gl/im3bUxA84rASFyeq8?g_st=ac"
+    "7:30 AM · Depart for Sibetan Village cycling excursion.",
+    "9:45 AM · Arrive at starting point, enjoy a welcome drink and walk through a salak (snake fruit) plantation.",
+    "Cycling route · 12 km, approximately 1.5 hours, mostly downhill with a little climbing. Approximately 80% quiet paved village roads and 20% single-track paths through rice fields, including some narrow or unpaved sections.",
+    "Finish cycling with fresh young coconut, then drive back to the start point for lunch.",
+    "Traditional lunch · Rice; herb chicken in banana leaves; minced chicken on bamboo skewers; chicken with tomato sauce; young bamboo shoots in coconut milk.",
+    "After lunch · Visit Kusamba traditional salt making and Goa Lawah (Bat Cave Temple) on the return journey."
   ],
   "bring": [
-    "Cash or payment card as needed for dinner and shops."
+    "Sunglasses",
+    "Sun lotion / sunscreen",
+    "Hat",
+    "Mosquito repellent",
+    "Shoes or sandals with straps"
   ],
   "changes": [
-    "Panji reminded guests to settle outstanding hotel charges before checkout, allowing time before departure.",
-    "Tonight's Three Monkeys Sanur dinner is a proposed group plan; please tell Panji if you have other plans for table reservation purposes.",
-    "Shops, minimarts, museum and yoga studio are optional local recommendations, not scheduled group activities."
+    "Tonight's October 24 7 PM lobby gathering is complete and has been removed from the upcoming briefing.",
+    "Panji's message reads '25 October 2025'; the planned excursion is interpreted as Sunday, October 25, 2026 because it was posted October 24, 2026 for 'tomorrow'.",
+    "Departure is listed as 7:30 AM; Panji did not specify an exact lobby meeting point.",
+    "Route timings and stops are Panji's plans, not confirmation the activities have occurred."
   ],
-  "source": "Panji Sidharta's October 24 Bali Geluxe Family 2026 WhatsApp messages and the Three Monkeys Sanur dinner message provided by a traveler.",
-  "note": "SATURDAY OCT 24: Meet in éL Hotel lobby at 7:00 PM for proposed dinner at Three Monkeys Sanur. Let Panji know if you won't attend. Local times UTC+8. Listed Sanur places are suggestions, not confirmed activities."
+  "source": "Panji Sidharta's October 24, 6:33–6:35 PM WhatsApp itinerary and preparation messages, plus traveler confirmation that the October 24 7 PM lobby meetup is complete.",
+  "note": "SUNDAY OCT 25: Depart at 7:30 AM for Sibetan Village cycling. Expect approximately 12 km over 1.5 hours, predominantly downhill, including some single-track paths. Bring sun protection, mosquito repellent and strapped footwear. Times Bali local (UTC+8)."
 }
