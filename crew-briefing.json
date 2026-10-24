@@ -1,41 +1,31 @@
 {
   "schema_version": 1,
   "status": "confirmed",
-  "for_date": "2026-10-23",
-  "updated_at": "2026-10-22T17:30:00+08:00",
-  "heading": "Tonight's Sunset & Dinner · Tomorrow's Padar and Rinca Boat Trip",
-  "day_label": "Thursday evening, October 22 · Friday, October 23 (Day 8)",
-  "meet_time": "05:30",
-  "meet_location": "Sudamala Resort hotel (departure; confirm lobby gathering point with Panji)",
-  "maps_url": null,
+  "for_date": "2026-10-24",
+  "updated_at": "2026-10-24T16:50:00+08:00",
+  "heading": "Tonight: Three Monkeys Sanur · Sanur Local Guide",
+  "day_label": "Saturday, October 24 · Day 9 · Sanur",
+  "meet_time": "19:00",
+  "meet_location": "éL Hotel & Resort Bali–Sanur lobby (meet for dinner)",
+  "maps_url": "https://maps.app.goo.gl/ARWJi1Rh7ngGiTyr7?g_st=ac",
   "activities": [
-    "TONIGHT, OCT 22 · 5:50 PM: Some travelers are meeting at the resort bar for sunset.",
-    "TONIGHT, OCT 22 · Group dinner reservation at the resort restaurant. Time not yet confirmed.",
-    "FRIDAY, OCT 23 · 5:30 AM: Depart from hotel (time approximate).",
-    "6:00 AM: Depart harbor.",
-    "7:00 AM: Arrive at Padar Island; hike to the viewpoint.",
-    "8:20 AM: Depart for Rinca Island.",
-    "9:10 AM: Arrive at Rinca Island.",
-    "10:45 AM: Return to boat and proceed to Manjarite for snorkeling.",
-    "11:15 AM: Arrive at Manjarite.",
-    "12:00 PM: Travel to Kelor Island for beach, swimming, snorkeling and lunch.",
-    "2:00 PM: Return toward harbor.",
-    "2:30 PM: Arrive at harbor.",
-    "3:00 PM: Return to hotel.",
-    "Tomorrow's breakfast box: croissant, Danish, muffin and assorted whole fruit; eat on the way to Padar Island."
+    "TONIGHT · 7:00 PM: Meet in the hotel lobby for dinner at Three Monkeys Sanur. Let Panji know if you have other plans so he can arrange the table reservation.",
+    "Hotel: éL Hotel & Resort Bali–Sanur — https://maps.app.goo.gl/itTJbEi3B2eaeGkD6",
+    "Shopping: Icon Bali Mall (international brands, by the beach) — https://maps.app.goo.gl/5nJ5V8ngRCjLkG9GA",
+    "Shopping: Artha Sedana Department Store — https://maps.app.goo.gl/gFRgmyiPsMgiSeJu6",
+    "Essentials: Coco Mart (money changer inside) — https://maps.app.goo.gl/ikSThNJw2fdx9NWA6",
+    "Essentials: Pepito Express (ATM available) — https://maps.app.goo.gl/9SH58PWfYcPC4qPo9",
+    "Museum: Le Mayeur Museum — https://maps.app.goo.gl/HoJmzcrtJujYGuur6?g_st=iw",
+    "Yoga: Power of Now Oasis — https://maps.app.goo.gl/im3bUxA84rASFyeq8?g_st=ac"
   ],
   "bring": [
-    "Comfortable footwear for Padar Island hike.",
-    "Sandals or water shoes for beach.",
-    "Hat, sunscreen and sunglasses.",
-    "Cash or card for extra drinks and souvenirs.",
-    "Shorts and T-shirts are fine."
+    "Cash or payment card as needed for dinner and shops."
   ],
   "changes": [
-    "Oct 23 lunch box: choose ONE option in Panji's WhatsApp poll: fried rice, fried noodles, or grilled chicken. Votes must be submitted in WhatsApp.",
-    "All October 23 itinerary times are approximate, per Panji.",
-    "Tonight's dinner is a group reservation at the resort restaurant; no exact time was supplied."
+    "Panji reminded guests to settle outstanding hotel charges before checkout, allowing time before departure.",
+    "Tonight's Three Monkeys Sanur dinner is a proposed group plan; please tell Panji if you have other plans for table reservation purposes.",
+    "Shops, minimarts, museum and yoga studio are optional local recommendations, not scheduled group activities."
   ],
-  "source": "Panji Sidharta's Oct 23 itinerary and lunch-poll screenshots, plus traveler-provided October 22 sunset and dinner arrangements",
-  "note": "TODAY (Oct 22): Sunset meetup at resort bar 5:50 PM; group restaurant reservation time not confirmed. TOMORROW (Oct 23): Hotel departure at 5:30 AM. Confirm any changes and the precise gathering point with Panji. Times local UTC+8."
+  "source": "Panji Sidharta's October 24 Bali Geluxe Family 2026 WhatsApp messages and the Three Monkeys Sanur dinner message provided by a traveler.",
+  "note": "SATURDAY OCT 24: Meet in éL Hotel lobby at 7:00 PM for proposed dinner at Three Monkeys Sanur. Let Panji know if you won't attend. Local times UTC+8. Listed Sanur places are suggestions, not confirmed activities."
 }
