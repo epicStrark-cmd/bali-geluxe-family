@@ -1,34 +1,34 @@
 {
   "schema_version": 1,
   "status": "confirmed",
-  "for_date": "2026-10-25",
-  "updated_at": "2026-10-24T19:01:00+08:00",
-  "heading": "Tomorrow · Sibetan Village Cycling & Cultural Stops",
-  "day_label": "Sunday, October 25 · Day 10 · Sanur",
-  "meet_time": "07:30",
-  "meet_location": "Depart from hotel (exact meeting point not specified by Panji)",
+  "for_date": "2026-10-27",
+  "updated_at": "2026-10-26T18:55:00+08:00",
+  "heading": "Farewell Evening and Airport Transfers",
+  "day_label": "Monday Oct 26 farewell · Tuesday Oct 27 departures",
+  "meet_time": "12:40",
+  "meet_location": "Hotel departure transfer for EVA Air BR256, Oct 27; exact hotel meeting point not stated",
   "maps_url": null,
   "activities": [
-    "7:30 AM · Depart for Sibetan Village cycling excursion.",
-    "9:45 AM · Arrive at starting point, enjoy a welcome drink and walk through a salak (snake fruit) plantation.",
-    "Cycling route · 12 km, approximately 1.5 hours, mostly downhill with a little climbing. Approximately 80% quiet paved village roads and 20% single-track paths through rice fields, including some narrow or unpaved sections.",
-    "Finish cycling with fresh young coconut, then drive back to the start point for lunch.",
-    "Traditional lunch · Rice; herb chicken in banana leaves; minced chicken on bamboo skewers; chicken with tomato sauce; young bamboo shoots in coconut milk.",
-    "After lunch · Visit Kusamba traditional salt making and Goa Lawah (Bat Cave Temple) on the return journey."
+    "Monday Oct 26: Farewell dinner evening. Follow Panji's instructions.",
+    "Oct 26: DL7873 listed flight 01:20, pickup 21:15; overnight flight date should be reconfirmed with Panji.",
+    "Tuesday Oct 27: EVA Air BR256 flight 16:40, hotel pickup 12:40.",
+    "Tuesday Oct 27: OD193 flight 18:10, pickup 14:00.",
+    "Tuesday Oct 27: GA718 flight 20:20, pickup 16:20.",
+    "Tuesday Oct 27: KE432 flight 23:55, transfers listed at 19:30 and 20:30 for separate traveler groups; check your assigned pickup.",
+    "Wednesday Oct 28: SQ939 flight 13:20, pickup 09:00."
   ],
   "bring": [
-    "Sunglasses",
-    "Sun lotion / sunscreen",
-    "Hat",
-    "Mosquito repellent",
-    "Shoes or sandals with straps"
+    "Passport and flight details",
+    "All luggage and travel essentials",
+    "Settle any remaining hotel charges before checkout",
+    "Confirm your own pickup time and hotel meeting location with Panji"
   ],
   "changes": [
-    "Tonight's October 24 7 PM lobby gathering is complete and has been removed from the upcoming briefing.",
-    "Panji's message reads '25 October 2025'; the planned excursion is interpreted as Sunday, October 25, 2026 because it was posted October 24, 2026 for 'tomorrow'.",
-    "Departure is listed as 7:30 AM; Panji did not specify an exact lobby meeting point.",
-    "Route timings and stops are Panji's plans, not confirmation the activities have occurred."
+    "Replaces completed Oct 25 cycling briefing with flight-transfer schedule.",
+    "KE432 has two different assigned pickup times; use the group time communicated by Panji.",
+    "Panji's DL7873 overnight timing is potentially ambiguous; reconfirm directly.",
+    "Private traveler identification details are not republished here."
   ],
-  "source": "Panji Sidharta's October 24, 6:33–6:35 PM WhatsApp itinerary and preparation messages, plus traveler confirmation that the October 24 7 PM lobby meetup is complete.",
-  "note": "SUNDAY OCT 25: Depart at 7:30 AM for Sibetan Village cycling. Expect approximately 12 km over 1.5 hours, predominantly downhill, including some single-track paths. Bring sun protection, mosquito repellent and strapped footwear. Times Bali local (UTC+8)."
+  "source": "Panji's Oct 26 group WhatsApp airport transfer arrangements.",
+  "note": "Oct 27: BR256 at 16:40, pickup at 12:40 local Bali time. Different flights have different pickup times. Verify directly with Panji."
 }
